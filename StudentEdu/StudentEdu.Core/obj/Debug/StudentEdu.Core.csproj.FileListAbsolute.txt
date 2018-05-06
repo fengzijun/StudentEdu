@@ -1,0 +1,6 @@
+C:\Users\fengzijun\Documents\Visual Studio 2017\Projects\StudentEdu\StudentEdu.Core\bin\Debug\StudentEdu.Core.dll
+C:\Users\fengzijun\Documents\Visual Studio 2017\Projects\StudentEdu\StudentEdu.Core\bin\Debug\StudentEdu.Core.pdb
+C:\Users\fengzijun\Documents\Visual Studio 2017\Projects\StudentEdu\StudentEdu.Core\obj\Debug\StudentEdu.Core.csprojResolveAssemblyReference.cache
+C:\Users\fengzijun\Documents\Visual Studio 2017\Projects\StudentEdu\StudentEdu.Core\obj\Debug\StudentEdu.Core.csproj.CoreCompileInputs.cache
+C:\Users\fengzijun\Documents\Visual Studio 2017\Projects\StudentEdu\StudentEdu.Core\obj\Debug\StudentEdu.Core.dll
+C:\Users\fengzijun\Documents\Visual Studio 2017\Projects\StudentEdu\StudentEdu.Core\obj\Debug\StudentEdu.Core.pdb

@@ -1,0 +1,5 @@
+C:\Users\fengzijun\Documents\Visual Studio 2017\Projects\StudentEdu\StudentEdu.Model\bin\Debug\StudentEdu.Model.dll
+C:\Users\fengzijun\Documents\Visual Studio 2017\Projects\StudentEdu\StudentEdu.Model\bin\Debug\StudentEdu.Model.pdb
+C:\Users\fengzijun\Documents\Visual Studio 2017\Projects\StudentEdu\StudentEdu.Model\obj\Debug\StudentEdu.Model.csproj.CoreCompileInputs.cache
+C:\Users\fengzijun\Documents\Visual Studio 2017\Projects\StudentEdu\StudentEdu.Model\obj\Debug\StudentEdu.Model.dll
+C:\Users\fengzijun\Documents\Visual Studio 2017\Projects\StudentEdu\StudentEdu.Model\obj\Debug\StudentEdu.Model.pdb

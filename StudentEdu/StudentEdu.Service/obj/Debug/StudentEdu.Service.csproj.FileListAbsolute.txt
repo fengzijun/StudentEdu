@@ -1,0 +1,10 @@
+C:\Users\fengzijun\Documents\Visual Studio 2017\Projects\StudentEdu\StudentEdu.Service\bin\Debug\StudentEdu.Service.dll
+C:\Users\fengzijun\Documents\Visual Studio 2017\Projects\StudentEdu\StudentEdu.Service\bin\Debug\StudentEdu.Service.pdb
+C:\Users\fengzijun\Documents\Visual Studio 2017\Projects\StudentEdu\StudentEdu.Service\bin\Debug\StudentEdu.Core.dll
+C:\Users\fengzijun\Documents\Visual Studio 2017\Projects\StudentEdu\StudentEdu.Service\bin\Debug\StudentEdu.Model.dll
+C:\Users\fengzijun\Documents\Visual Studio 2017\Projects\StudentEdu\StudentEdu.Service\bin\Debug\StudentEdu.Core.pdb
+C:\Users\fengzijun\Documents\Visual Studio 2017\Projects\StudentEdu\StudentEdu.Service\bin\Debug\StudentEdu.Model.pdb
+C:\Users\fengzijun\Documents\Visual Studio 2017\Projects\StudentEdu\StudentEdu.Service\obj\Debug\StudentEdu.Service.csprojResolveAssemblyReference.cache
+C:\Users\fengzijun\Documents\Visual Studio 2017\Projects\StudentEdu\StudentEdu.Service\obj\Debug\StudentEdu.Service.csproj.CoreCompileInputs.cache
+C:\Users\fengzijun\Documents\Visual Studio 2017\Projects\StudentEdu\StudentEdu.Service\obj\Debug\StudentEdu.Service.dll
+C:\Users\fengzijun\Documents\Visual Studio 2017\Projects\StudentEdu\StudentEdu.Service\obj\Debug\StudentEdu.Service.pdb

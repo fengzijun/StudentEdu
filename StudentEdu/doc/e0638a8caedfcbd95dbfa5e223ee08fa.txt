@@ -1,0 +1,83 @@
+
+以下
+
+
+新建用户
+http://61.155.153.144:8080/CreateStudent.aspx
+
+参数：
+	cardno 身份证号
+	name   用户名
+	rand   随机数
+	sign   签名（  MD5（cardno.name.rand.盐）前面参数字符串连接+盐值 md5加密 ）
+
+
+同步用户该视频已读时间到服务器
+http://61.155.153.144:8080/AddOrUpdateStudentVideoInfo.aspx
+
+参数：
+	cardno  身份证号
+	vid     视频编号（视频id）
+	time    已读时间
+	rand    随机数
+	sign    签名（  MD5（cardno.vid.time.rand.盐） 前面参数字符串连接+盐值 md5加密 ）
+
+	
+保存个人信息
+http://61.155.153.144:8080/updatestudent.aspx
+
+参数：
+	cardno   身份证号
+	name     姓名
+	company  
+	mobile
+	level
+	nation
+	sex
+	age
+	rand     随机数
+	sign     签名 （ 前面参数字符串连接+盐值 md5加密 ）
+	
+	
+获取用户视频目标时间和已读时间
+http://61.155.153.144:8080/GetStudentVideoInfo.aspx
+
+参数：
+	cardno 身份证号
+	rand   随机数
+	sign   签名（ 前面参数字符串连接+盐值 md5加密 ）
+
+返回数据参考：
+	Result:[
+		{
+			id:(视频的编号)
+			complete_time:（观看时间）
+		}
+	]
+	
+	
+获取考试最高分	
+http://61.155.153.144:8080/GetStudentScore.aspx
+
+参数：
+	cardno  身份证号
+	examid  
+	rand    随机数
+	sign    签名（ 前面参数字符串连接+盐值 md5加密 ）
+	
+返回数据参考：
+	Result:{
+		Score:
+		Createtime:
+	}
+	
+	
+传递考试最高分
+http://61.155.153.144:8080/AddOrUpdateStudentScore.aspx
+
+参数：
+	cardno  身份证号
+	examid  
+	score   得分
+	rand    随机数
+	sign	签名（ 前面参数字符串连接+盐值 md5加密 ）
